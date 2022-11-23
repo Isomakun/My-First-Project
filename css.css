@@ -1,0 +1,24 @@
+body {
+    background-color:#948fd8;
+}
+
+h3 { font-size: 35px;}
+p { font-size: 20px;}
+
+   ol { padding-left: 30px;
+padding-top: 45px;
+padding-right: 35px;
+padding-bottom: 45px;}
+ 
+h1{ background-color: aliceblue;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-left: 60px;
+margin-right: 60px;
+font-size: 100px;
+text-align: center;
+}
+img{ margin-top: 45px;
+margin-bottom: 45px;
+margin-left: 50px;
+margin-right:50px;}
